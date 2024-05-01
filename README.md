@@ -100,7 +100,7 @@ To clone: git clone https://github.com/your-username/repository-name.git
 
 3. View the application either locally by running it on your machine or open the deployed application in your web browser.
 
-4. Upon accessing the application, you should see the React Portfolio interface. The Home page displays user's name, and navigation links including "Home", "About", "Projects", "Contact", and "Resume".
+4. Upon accessing the application, users should see the React Portfolio interface. The Home page displays developer's name, and navigation links including "Home", "About", "Projects", "Contact", and "Resume".
 
 5. When users click on specific navigation tabs, they are promptly presented with corresponding information tailored to each tab.
 
