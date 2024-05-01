@@ -90,7 +90,7 @@ const Portfolio = () => {
               </a>
               <a href={project.deployedUrl} className="btn btn-primary" target="_blank" rel="noopener noreferrer">
                 <FontAwesomeIcon icon={faExternalLinkAlt} className="mr-2" />
-                Deployed
+                Deployed Link
               </a>
             </div>
           </div>
