@@ -109,15 +109,15 @@ To clone: git clone https://github.com/your-username/repository-name.git
 ## Screenshot
 **The React Portfolio - homepage:**
 
-![The-React-Portfolio-Homepage](/assets/ReactPortfolioHomepage.jpeg)
+![The-React-Portfolio-Homepage](/Assets/ReactPortfolioHomepage.jpeg)
 
 ## Contributions
-Contributions to the The Book Search Engine are welcome and encouraged. Here are some ways you can contribute:
+Contributions to the The React Portfolio are welcome and encouraged. Here are some ways you can contribute:
 
 1. **Bug Reports and Feature Requests:**
   - If you encounter any issues or have suggestions for new features, please open an issue on the GitHub repository.
     
-2. **Enhancements to The Book Search Engine Application:**
+2. **Enhancements to The React Portfolio Application:**
   -  We welcome contributions aimed at improving this application. If you find ways to enhance the application or identify any limitations, feel free to submit a pull request.
 
 3. **Documentation Improvements:**
@@ -127,8 +127,8 @@ Contributions to the The Book Search Engine are welcome and encouraged. Here are
 There are no tests required for this project.
 
 ## Links
-- [Deployment link](https://book-search-engine-im1z.onrender.com)
-- [GitHub repository](https://github.com/MunibaP/Book-Search-Engine.git)
+- [Deployment link](https://incandescent-lily-f91a9d.netlify.app/)
+- [GitHub repository](https://github.com/MunibaP/React-Portfolio.git)
   
 ## Questions
 I appreciate and encourage any questions you may have. Feel free to reach out for further information.
