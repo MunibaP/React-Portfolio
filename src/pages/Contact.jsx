@@ -32,7 +32,6 @@ const Contact = () => {
                         <br></br>
                         <h1 style={{ textAlign: 'center', marginBottom: '1rem', fontSize: '50px', fontWeight: 'bold', textShadow: '2px 2px 4px rgba(0, 0, 0, 0.6)', color: '#0d6efd' }}>Get in Touch</h1>
                         <p style={{ textAlign: 'center', marginBottom: '1rem', fontSize: '18px' }}>Please don&apos;t  hesitate to contact me using the form, I genuinely welcome your message. Should you have any specific inquiries or comments, feel free to reach me directly via email. </p>
-                        {/* <h3 style={{ textAlign: 'center', marginBottom: '1rem' }}>munibapervez596@gmail.com</h3> */}
                     </Col>
 
                     <Col md={6}>
